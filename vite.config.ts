@@ -13,5 +13,5 @@ export default defineConfig({
   server: {
     port: 5173,
   },
-  base: '/web/', // إعداد صحيح لمسار GitHub Pages
+  base: '/web-main/', // إعداد صحيح لمسار GitHub Pages
 });
